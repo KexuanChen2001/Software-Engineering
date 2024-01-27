@@ -1,7 +1,9 @@
 # Software-Engineering Conference Management System
-
-
-
+### Basic Info: The project ... 
+Designed the UIC conference management system, including architectural design and detailed specifications;
+Implemented 19 classes with over 20 functions and created 20 user interfaces;
+Coded using Python Flask, realized a system that enables contestants to submit posters, judges to log in for poster selection, and participants to view posters and join in a lucky draw;
+Composed System Requirements Specification and executed the entire software life cycle;
 
 ### How to start
 ##### 1. What the environment needed using this product?
