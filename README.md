@@ -22,7 +22,7 @@ http://127.0.0.1:5000/attendeeGetLink
 
 ### Diagrams
 #### The use case diagram
-![imag](https://github.com/KexuanChen2001/Software-Engineering/blob/main/Pictures/use%20case%20diagram1.jpg)
+![imag](https://github.com/KexuanChen2001/Software-Engineering/blob/main/Pictures/use%20case%20diagram.jpg)
 ![imag](https://github.com/KexuanChen2001/Software-Engineering/blob/main/Pictures/use%20case%20diagram2.jpg)
 #### The class diagram
 ![imag](https://github.com/KexuanChen2001/Software-Engineering/blob/main/Pictures/class%20diagram.jpg)
